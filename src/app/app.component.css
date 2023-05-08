@@ -1,0 +1,8 @@
+h1{
+    text-align: center;
+    font-size: 4rem;
+    font-family: cursive;
+    background: linear-gradient(rgb(241, 229, 102), 	rgb(248, 161, 0));
+    color: whitesmoke;
+    padding: 1%;
+}
